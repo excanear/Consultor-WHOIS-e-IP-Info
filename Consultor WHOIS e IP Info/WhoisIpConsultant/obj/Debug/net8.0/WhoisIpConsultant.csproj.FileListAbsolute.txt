@@ -1,0 +1,17 @@
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.csproj.AssemblyReference.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.AssemblyInfoInputs.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.AssemblyInfo.cs
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.csproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\bin\Debug\net8.0\WhoisIpConsultant.exe
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\bin\Debug\net8.0\WhoisIpConsultant.deps.json
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\bin\Debug\net8.0\WhoisIpConsultant.runtimeconfig.json
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\bin\Debug\net8.0\WhoisIpConsultant.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\bin\Debug\net8.0\WhoisIpConsultant.pdb
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpC.BEB67C1F.Up2Date
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\refint\WhoisIpConsultant.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.pdb
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\WhoisIpConsultant.genruntimeconfig.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net8.0\ref\WhoisIpConsultant.dll

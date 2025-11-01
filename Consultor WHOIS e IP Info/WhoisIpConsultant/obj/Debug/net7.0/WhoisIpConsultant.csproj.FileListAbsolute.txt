@@ -1,0 +1,5 @@
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net7.0\WhoisIpConsultant.csproj.AssemblyReference.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net7.0\WhoisIpConsultant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net7.0\WhoisIpConsultant.AssemblyInfoInputs.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net7.0\WhoisIpConsultant.AssemblyInfo.cs
+C:\Users\Henry\OneDrive\Área de Trabalho\Consultor WHOIS e IP Info\WhoisIpConsultant\obj\Debug\net7.0\WhoisIpConsultant.csproj.CoreCompileInputs.cache

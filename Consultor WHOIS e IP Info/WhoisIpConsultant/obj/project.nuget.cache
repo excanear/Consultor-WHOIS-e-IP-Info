@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWcRxIDYAbI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henry\\OneDrive\\Área de Trabalho\\Consultor WHOIS e IP Info\\WhoisIpConsultant\\WhoisIpConsultant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henry\\.nuget\\packages\\dnsclient\\1.7.0\\dnsclient.1.7.0.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Henry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "WhoisIpConsultant depends on DnsClient (>= 1.6.6) but DnsClient 1.6.6 was not found. DnsClient 1.7.0 was resolved instead.",
+      "projectPath": "C:\\Users\\Henry\\OneDrive\\Área de Trabalho\\Consultor WHOIS e IP Info\\WhoisIpConsultant\\WhoisIpConsultant.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Henry\\OneDrive\\Área de Trabalho\\Consultor WHOIS e IP Info\\WhoisIpConsultant\\WhoisIpConsultant.csproj",
+      "libraryId": "DnsClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
