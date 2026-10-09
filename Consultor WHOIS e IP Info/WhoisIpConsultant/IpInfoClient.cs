@@ -21,6 +21,15 @@ public class IpInfoClient
 {
     private readonly HttpClient _http = new();
 
+    public IpInfoClient()
+    {
+        // Servidores RDAP (ex.: ARIN) respondem 403 a requisições sem
+        // User-Agent. Define um UA e aceita RDAP/JSON.
+        _http.DefaultRequestHeaders.UserAgent.ParseAdd("WhoisIpConsultant/1.0");
+        _http.DefaultRequestHeaders.Accept.ParseAdd("application/rdap+json");
+        _http.DefaultRequestHeaders.Accept.ParseAdd("application/json");
+    }
+
     public async Task<IpGeoInfo?> GetGeoAsync(string ip)
     {
         var url = $"http://ip-api.com/json/{ip}?fields=status,message,country,regionName,city,isp,org,query,lat,lon,timezone";
